@@ -1,0 +1,26 @@
+.feature_box {
+  background-color: rgb(228, 228, 228);
+  /* height: 70vh; */
+  width: 100%;
+  margin-top: -180px;
+  padding: 60px;
+}
+
+.feature_header_text {
+  color: black;
+  padding-top: 200px;
+  font-size: 3rem;
+}
+
+.feature_text {
+  font-size: 1.5rem;
+}
+
+.icon_img {
+  /* background-image: url('/seo.jpg'); */
+  background-color: black !important;
+}
+
+.all_card_img {
+  height: 300px;
+}
